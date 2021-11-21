@@ -14,7 +14,7 @@ or download this repository and unzip it
 ## Usage
 
 ```python
-java bscalc.java
+java calc.java
 ```
 
 ## Contributing
