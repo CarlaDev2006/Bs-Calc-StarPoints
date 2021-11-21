@@ -7,7 +7,8 @@ Bs Calc StarPoints is a file to calc your starpoints for this season or the next
 Use the app of JavaIDE  [JavaIDE](https://play.google.com/store/apps/details?id=com.duy.compiler.javanide&hl=es&gl=US) for run.
 
 ```bash
-gitclone https://github.com/CarlosDev2006/Bs-Calc-StarPoints
+git clone https://github.com/CarlosDev2006/Bs-Calc-StarPoints
+or download this repository and unzip it
 ```
 
 ## Usage
